@@ -2,3 +2,6 @@ span{
     color: red;
     border: 1px solid red;
 }
+button{
+    padding: 30px 30px;
+}
